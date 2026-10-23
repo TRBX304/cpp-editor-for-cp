@@ -28,7 +28,6 @@ int main() {
   ios::sync_with_stdio(false);
   cin.tie(nullptr);
   // 処理はここから
-
   return 0;
 }
 `,
